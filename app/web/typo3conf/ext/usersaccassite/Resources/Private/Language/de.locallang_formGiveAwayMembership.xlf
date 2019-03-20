@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-16T11:52:48Z" product-name="usersaccassite" target-language="de">
+		<header/>
+		<body>
+			<trans-unit id="element.Page.renderingOptions.nextButtonLabel">
+				<source>Next Step</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.Page.renderingOptions.previousButtonLabel">
+				<source>Previous Step</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.summarypage-1.renderingOptions.previousButtonLabel">
+				<source>Previous Step</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.summarypage-1.properties.label">
+				<source>Summary</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.giveAwayMembership.renderingOptions.submitButtonLabel">
+				<source>Apply for Membership</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.page-1.properties.label">
+				<source>Invoice Recipient</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.page-2.properties.label">
+				<source>Gifted person</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.giveaway-acknowledgement.properties.label">
+				<source>Yes, I give the following person an annual membership in the SAC and pay the costs. The following year, the gifted person receives a regular membership bill, which he or she can regularly announce (if you would like to donate several years at a time, please contact our membership service).</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.mobile-sender.properties.label">
+				<source>Mobile phone</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.phone-recipient.properties.label">
+				<source>Phone</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.send-information-to.properties.label">
+				<source>Gift documents</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.send-information-to.properties.options.buyer">
+				<source>Send to me</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.send-information-to.properties.options.recipient">
+				<source>Send to the given person</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-member-more-infos-recipient.properties.label">
+				<source>More Informations</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-giveaway-acknowledgment.properties.label">
+				<source>More Informations</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-member-family-membership.properties.label">
+				<source>Family membership</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-2.properties.label">
+				<source>Membership</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-main-1.properties.label">
+				<source>Membership</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-member-more-infos.properties.label">
+				<source>Membership start</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-member-personal-datas-recipient.properties.label">
+				<source>Personal data recipient</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-send-information-to.properties.label">
+				<source>Giveaway documents</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-member-personal-datas.properties.label">
+				<source>Personal data invoice recipient</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-member-address-infos.properties.label">
+				<source>Address information invoice recipient</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.fieldset-1.properties.label">
+				<source>General information invoice recipient</source>
+			<target></target></trans-unit>
+			<trans-unit id="finisher.EmailToSender.subject">
+				<source>Your membership giveaway at the Swiss Alpine-Club SAC</source>
+			<target></target></trans-unit>
+			<trans-unit id="finisher.EmailToSender.senderName">
+				<source>Swiss Alpine-Club SAC</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.phone-sender.properties.label">
+				<source>Phone</source>
+			<target></target></trans-unit>
+			<trans-unit id="element.mobile-recipient.properties.label">
+				<source>Mobile</source>
+			<target></target></trans-unit>
+		</body>
+	</file>
+</xliff>
