@@ -12,7 +12,7 @@
 			<trans-unit id="mod.web_layout.backendLayouts.mySac.title">
 				<source>My Sac with subpage menu</source> <target>Mon CAS avec menu de sous pages</target></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.page.title">
-				<source>Page</source> <target/></trans-unit>
+				<source>Page</source> <target>Page</target></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.page.shop.full.title">
 				<source>Page Shop Full Width</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.pageDetail.title">
@@ -546,7 +546,7 @@
 				<source>feedback</source> <target/></trans-unit>
 
 			<trans-unit id="manifest.name">
-				<source>Swiss Alpine Club SAC</source> <target/></trans-unit>
+				<source>Swiss Alpine Club SAC</source> <target>Club Alpin Suisse CAS</target></trans-unit>
 			<trans-unit id="manifest.short_name">
 				<source>SAC</source> <target/></trans-unit>
 			<trans-unit id="manifest.description">
