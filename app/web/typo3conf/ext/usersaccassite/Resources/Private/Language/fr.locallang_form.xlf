@@ -4,128 +4,87 @@
 		<header/>
 		<body>
 			<trans-unit id="element.GenderSelect.properties.label">
-				<source>Salutation</source>
-			<target></target></trans-unit>
+				<source>Salutation</source> <target>Genre</target></trans-unit>
 			<trans-unit id="element.GenderSelect.properties.options.f">
-				<source>Mrs</source>
-			<target></target></trans-unit>
+				<source>Mrs</source> <target>Madame</target></trans-unit>
 			<trans-unit id="element.GenderSelect.properties.options.m">
-				<source>Mr</source>
-			<target></target></trans-unit>
+				<source>Mr</source> <target>Monsieur</target></trans-unit>
 			<trans-unit id="element.SingleSelectCountry.label">
-				<source>Country</source>
-			<target></target></trans-unit>
+				<source>Country</source> <target>Pays</target></trans-unit>
 			<trans-unit id="element.SingleSelectCountry.properties.label">
-				<source>Country</source>
-			<target></target></trans-unit>
+				<source>Country</source> <target/></trans-unit>
 			<trans-unit id="element.SingleSelectCountry.properties.prependOptionLabel">
-				<source>Select country</source>
-			<target></target></trans-unit>
+				<source>Select country</source> <target/></trans-unit>
 			<trans-unit id="element.TextBirthday.properties.label">
-				<source>Birthday</source>
-			<target></target></trans-unit>
+				<source>Birthday</source> <target/></trans-unit>
 			<trans-unit id="element.TextBirthday.properties.placeholder">
-				<source>dd.mm.yyyy</source>
-			<target></target></trans-unit>
+				<source>dd.mm.yyyy</source> <target/></trans-unit>
 			<trans-unit id="element.TextFirstname.properties.label">
-				<source>First name</source>
-			<target></target></trans-unit>
+				<source>First name</source> <target/></trans-unit>
 			<trans-unit id="element.TextLastname.properties.label">
-				<source>Last name</source>
-			<target></target></trans-unit>
+				<source>Last name</source> <target/></trans-unit>
 			<trans-unit id="element.TextAdditionalAddress.properties.label">
-				<source>Additional address</source>
-			<target></target></trans-unit>
+				<source>Additional address</source> <target/></trans-unit>
 			<trans-unit id="element.TextCity.properties.label">
-				<source>City</source>
-			<target></target></trans-unit>
+				<source>City</source> <target/></trans-unit>
 			<trans-unit id="element.TextEmail.properties.label">
-				<source>E-mail</source>
-			<target></target></trans-unit>
+				<source>E-mail</source> <target/></trans-unit>
 			<trans-unit id="element.TextStreetWithNumber.properties.label">
-				<source>Street with number</source>
-			<target></target></trans-unit>
+				<source>Street with number</source> <target/></trans-unit>
 			<trans-unit id="element.TextPoBox.properties.label">
-				<source>P.O. Box</source>
-			<target></target></trans-unit>
+				<source>P.O. Box</source> <target/></trans-unit>
 			<trans-unit id="element.TextZip.properties.label">
-				<source>Zipcode</source>
-			<target></target></trans-unit>
+				<source>Zipcode</source> <target/></trans-unit>
 			<trans-unit id="element.acknowledgement.properties.label">
-				<source>I agree on the membership rules and I confirm my registration.</source>
-			<target></target></trans-unit>
+				<source>I agree on the membership rules and I confirm my registration.</source> <target/></trans-unit>
 			<trans-unit id="element.acknowledgement.customValue.0">
-				<source>no</source>
-			<target></target></trans-unit>
+				<source>no</source> <target/></trans-unit>
 			<trans-unit id="element.acknowledgement.customValue.1">
-				<source>yes</source>
-			<target></target></trans-unit>
+				<source>yes</source> <target/></trans-unit>
 			<trans-unit id="element.membershipdate.properties.label">
-				<source>Registration Date</source>
-			<target></target></trans-unit>
+				<source>Registration Date</source> <target/></trans-unit>
 			<trans-unit id="element.membershipdate.properties.options.july">
-				<source>1st july</source>
-			<target></target></trans-unit>
+				<source>1st july</source> <target/></trans-unit>
 			<trans-unit id="element.membershipdate.properties.options.now">
-				<source>Now</source>
-			<target></target></trans-unit>
+				<source>Now</source> <target/></trans-unit>
 			<trans-unit id="element.membershipdate.properties.options.october">
-				<source>1st October</source>
-			<target></target></trans-unit>
+				<source>1st October</source> <target/></trans-unit>
 			<trans-unit id="element.membershipselect.properties.label">
-				<source>Membership</source>
-			<target></target></trans-unit>
+				<source>Membership</source> <target/></trans-unit>
 			<trans-unit id="element.membershipselect.properties.options.family">
-				<source>Family membership (Max. 2 adultes with x kids from 6 to 17 years old)</source>
-			<target></target></trans-unit>
+				<source>Family membership (Max. 2 adultes with x kids from 6 to 17 years old)</source> <target/></trans-unit>
 			<trans-unit id="element.membershipselect.properties.options.individual">
-				<source>Individual membership (over 22 years old)</source>
-			<target></target></trans-unit>
+				<source>Individual membership (over 22 years old)</source> <target/></trans-unit>
 			<trans-unit id="element.membershipselect.properties.options.young">
-				<source>Youth membership (till 22 years old)</source>
-			<target></target></trans-unit>
+				<source>Youth membership (till 22 years old)</source> <target/></trans-unit>
 			<trans-unit id="element.message.properties.label">
-				<source>Message</source>
-			<target></target></trans-unit>
+				<source>Message</source> <target/></trans-unit>
 			<trans-unit id="element.mobile.properties.label">
-				<source>Mobile phone</source>
-			<target></target></trans-unit>
+				<source>Mobile phone</source> <target/></trans-unit>
 			<trans-unit id="element.phone.properties.label">
-				<source>Phone</source>
-			<target></target></trans-unit>
+				<source>Phone</source> <target/></trans-unit>
 			<trans-unit id="element.sectionselect.properties.label">
-				<source>Section</source>
-			<target></target></trans-unit>
+				<source>Section</source> <target/></trans-unit>
 			<trans-unit id="element.sectionselect.properties.prependOptionLabel">
-				<source>Select the section to join</source>
-			<target></target></trans-unit>
+				<source>Select the section to join</source> <target/></trans-unit>
 			<trans-unit id="element.sectionselect.properties.options.prepend_nosection">
-				<source>I have no idea, send me information</source>
-			<target></target></trans-unit>
+				<source>I have no idea, send me information</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.header.typolink.label">
-				<source>Mitgliedervorteile</source>
-			<target></target></trans-unit>
+				<source>Mitgliedervorteile</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.header.typolink.title">
-				<source>Mitgliedervorteile</source>
-			<target></target></trans-unit>
+				<source>Mitgliedervorteile</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.messageTitle">
-				<source>Deine verschenkte Mitgliedschaft beim Schweizer Alpen-Club SAC</source>
-			<target></target></trans-unit>
+				<source>Deine verschenkte Mitgliedschaft beim Schweizer Alpen-Club SAC</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.hello">
-				<source>Hello %s,</source>
-			<target></target></trans-unit>
+				<source>Hello %s,</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.messageTop">
-				<source>Danke für Deinen Wunsch eine Mitgliedschaft zu verschenken</source>
-			<target></target></trans-unit>
+				<source>Danke für Deinen Wunsch eine Mitgliedschaft zu verschenken</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.messageBottom">
-				<source>Wir informieren dich über weiteres Vorgehen so bald wie möglich.</source>
-			<target></target></trans-unit>
+				<source>Wir informieren dich über weiteres Vorgehen so bald wie möglich.</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.salutation">
-				<source>Dein SAC</source>
-			<target></target></trans-unit>
+				<source>Dein SAC</source> <target/></trans-unit>
 			<trans-unit id="form.giveAwayMembership.footer.resort_title">
-				<source>Mitgliedverwaltung</source>
-			<target></target></trans-unit>
+				<source>Mitgliedverwaltung</source> <target/></trans-unit>
 		</body>
 	</file>
 </xliff>
