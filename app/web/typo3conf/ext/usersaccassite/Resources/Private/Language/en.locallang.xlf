@@ -4,834 +4,559 @@
 		<header/>
 		<body>
 			<trans-unit id="page.title">
-				<source>Swiss Alpine Club SAC</source>
-			<target></target></trans-unit>
+				<source>Swiss Alpine Club SAC</source> <target>Swiss Alpine Club SAC</target></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.centeredNarrow.title">
-				<source>Centered Narrow</source>
-			<target></target></trans-unit>
+				<source>Centered Narrow</source> <target>Minimal page centered narrow</target></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.centeredWide.title">
-				<source>Centered Wide</source>
-			<target></target></trans-unit>
+				<source>Centered Wide</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.mySac.title">
-				<source>My Sac with subpage menu</source>
-			<target></target></trans-unit>
+				<source>My Sac with subpage menu</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.page.title">
-				<source>Page</source>
-			<target></target></trans-unit>
+				<source>Page</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.page.shop.full.title">
-				<source>Page Shop Full Width</source>
-			<target></target></trans-unit>
+				<source>Page Shop Full Width</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.pageDetail.title">
-				<source>Page With Detail View</source>
-			<target></target></trans-unit>
+				<source>Page With Detail View</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.pageRightColumn.title">
-				<source>Page Right Column</source>
-			<target></target></trans-unit>
+				<source>Page Right Column</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.pageRoute.title">
-				<source>Page Route</source>
-			<target></target></trans-unit>
+				<source>Page Route</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.pageSection.title">
-				<source>Page Section</source>
-			<target></target></trans-unit>
+				<source>Page Section</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.pageShop.title">
-				<source>Page Shop</source>
-			<target></target></trans-unit>
+				<source>Page Shop</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.common.topContent">
-				<source>Top Content</source>
-			<target></target></trans-unit>
+				<source>Top Content</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.common.leftContent">
-				<source>Left Content</source>
-			<target></target></trans-unit>
+				<source>Left Content</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.common.mainContent">
-				<source>Main Content</source>
-			<target></target></trans-unit>
+				<source>Main Content</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.common.rightContent">
-				<source>Right Content</source>
-			<target></target></trans-unit>
+				<source>Right Content</source> <target/></trans-unit>
 			<trans-unit id="mod.web_layout.backendLayouts.common.bottomContent">
-				<source>Bottom Content</source>
-			<target></target></trans-unit>
+				<source>Bottom Content</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.contentNestedItem.title">
-				<source>Content Nested Item (for tabs or accordions)</source>
-			<target></target></trans-unit>
+				<source>Content Nested Item (for tabs or accordions)</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.contentNestedItem.description">
-				<source>Inserts a Nested Item for content.</source>
-			<target></target></trans-unit>
+				<source>Inserts a Nested Item for content.</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.contentNestedItem.flexform.title">
-				<source>Nested Item</source>
-			<target></target></trans-unit>
+				<source>Nested Item</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.contentNestedItem.flexform.open">
-				<source>Show the element as open</source>
-			<target></target></trans-unit>
+				<source>Show the element as open</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.celayout.col1">
-				<source>Column 1</source>
-			<target></target></trans-unit>
+				<source>Column 1</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.celayout.col2">
-				<source>Column 2</source>
-			<target></target></trans-unit>
+				<source>Column 2</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.celayout.col3">
-				<source>Column 3</source>
-			<target></target></trans-unit>
+				<source>Column 3</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.celayout.col4">
-				<source>Column 4</source>
-			<target></target></trans-unit>
+				<source>Column 4</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layout1col.title">
-				<source>Layout 1 column container</source>
-			<target></target></trans-unit>
+				<source>Layout 1 column container</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layout1col.description">
-				<source>Inserts a 1-column layout container</source>
-			<target></target></trans-unit>
+				<source>Inserts a 1-column layout container</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layout2col.title">
-				<source>Layout 2 columns sidebar container</source>
-			<target></target></trans-unit>
+				<source>Layout 2 columns sidebar container</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layout2col.description">
-				<source>Inserts a 2-columns layout container</source>
-			<target></target></trans-unit>
+				<source>Inserts a 2-columns layout container</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutAccordions.title">
-				<source>Layout accordion</source>
-			<target></target></trans-unit>
+				<source>Layout accordion</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutAccordions.description">
-				<source>Inserts an accordion layout container</source>
-			<target></target></trans-unit>
+				<source>Inserts an accordion layout container</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutAccordions.flexform.multiexpand">
-				<source>Enable multi-expand (Open more than one item)</source>
-			<target></target></trans-unit>
+				<source>Enable multi-expand (Open more than one item)</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.title">
-				<source>Layout Slide in panel</source>
-			<target></target></trans-unit>
+				<source>Layout Slide in panel</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.description">
-				<source>Insert the slide in panel</source>
-			<target></target></trans-unit>
+				<source>Insert the slide in panel</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab1title">
-				<source>Tab 1 title:</source>
-			<target></target></trans-unit>
+				<source>Tab 1 title:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab1subtitle">
-				<source>Tab 1 subtitle:</source>
-			<target></target></trans-unit>
+				<source>Tab 1 subtitle:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab1icon">
-				<source>Tab 1 icon:</source>
-			<target></target></trans-unit>
+				<source>Tab 1 icon:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab1link">
-				<source>Tab 1 link: (content not dropping if displayed)</source>
-			<target></target></trans-unit>
+				<source>Tab 1 link: (content not dropping if displayed)</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab2title">
-				<source>Tab 2 title:</source>
-			<target></target></trans-unit>
+				<source>Tab 2 title:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab2subtitle">
-				<source>Tab 2 subtitle:</source>
-			<target></target></trans-unit>
+				<source>Tab 2 subtitle:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab2icon">
-				<source>Tab 2 icon:</source>
-			<target></target></trans-unit>
+				<source>Tab 2 icon:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab2link">
-				<source>Tab 2 link: (content not dropping if displayed)</source>
-			<target></target></trans-unit>
+				<source>Tab 2 link: (content not dropping if displayed)</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab3title">
-				<source>Tab 3 title:</source>
-			<target></target></trans-unit>
+				<source>Tab 3 title:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab3subtitle">
-				<source>Tab 3 subtitle:</source>
-			<target></target></trans-unit>
+				<source>Tab 3 subtitle:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab3icon">
-				<source>Tab 3 icon:</source>
-			<target></target></trans-unit>
+				<source>Tab 3 icon:</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutSlideInPanel.flexform.tab3link">
-				<source>Tab 3 link: (content not dropping if displayed)</source>
-			<target></target></trans-unit>
+				<source>Tab 3 link: (content not dropping if displayed)</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutTabs.title">
-				<source>Layout tabs</source>
-			<target></target></trans-unit>
+				<source>Layout tabs</source> <target/></trans-unit>
 			<trans-unit id="tx_gridelements.layoutTabs.description">
-				<source>Inserts a tab layout container</source>
-			<target></target></trans-unit>
+				<source>Inserts a tab layout container</source> <target/></trans-unit>
 			<trans-unit id="m069_vcard.www">
-				<source>website</source>
-			<target></target></trans-unit>
+				<source>website</source> <target/></trans-unit>
 			<trans-unit id="m069_vcard.email">
-				<source>E-mail</source>
-			<target></target></trans-unit>
+				<source>E-mail</source> <target/></trans-unit>
 			<trans-unit id="common.author.label">
-				<source>Author</source>
-			<target></target></trans-unit>
+				<source>Author</source> <target/></trans-unit>
 			<trans-unit id="common.authors.label">
-				<source>Authors</source>
-			<target></target></trans-unit>
+				<source>Authors</source> <target/></trans-unit>
 			<trans-unit id="common.author_more_info.label">
-				<source>About the author</source>
-			<target></target></trans-unit>
+				<source>About the author</source> <target/></trans-unit>
 			<trans-unit id="common.addToCalendar.label">
-				<source><![CDATA[Add to calendar]]></source>
-			<target></target></trans-unit>
+				<source>Add to calendar</source> <target/></trans-unit>
 			<trans-unit id="common.other">
-				<source>Other</source>
-			<target></target></trans-unit>
+				<source>Other</source> <target/></trans-unit>
 			<trans-unit id="common.ourPartners.label">
-				<source>Our partners</source>
-			<target></target></trans-unit>
+				<source>Our partners</source> <target/></trans-unit>
 			<trans-unit id="account.activation.headline">
-				<source>Hello %0s,</source>
-			<target></target></trans-unit>
+				<source>Hello %0s,</source> <target/></trans-unit>
 			<trans-unit id="account.activation.subline">
-				<source>Your SAC-Account is waiting for you!</source>
-			<target></target></trans-unit>
+				<source>Your SAC-Account is waiting for you!</source> <target/></trans-unit>
 			<trans-unit id="account.activation.submitButtonLabel">
-				<source>Go to my SAC-Account</source>
-			<target></target></trans-unit>
+				<source>Go to my SAC-Account</source> <target/></trans-unit>
 			<trans-unit id="account.activation.error.general">
-				<source>Account could not be activated. Please check your entries and try again.</source>
-			<target></target></trans-unit>
+				<source>Account could not be activated. Please check your entries and try again.</source> <target/></trans-unit>
 			<trans-unit id="account.activation.error.email_already_in_use">
-				<source>This e-mail address is already used by another user</source>
-			<target></target></trans-unit>
+				<source>This e-mail address is already used by another user</source> <target/></trans-unit>
 			<trans-unit id="account.activation.error.invalid_email_address">
-				<source>Invalid email address</source>
-			<target></target></trans-unit>
+				<source>Invalid email address</source> <target/></trans-unit>
 			<trans-unit id="account.activation.error.password_too_short">
-				<source>Password too short</source>
-			<target></target></trans-unit>
+				<source>Password too short</source> <target/></trans-unit>
 			<trans-unit id="account.activation.error.confirmation_does_not_match">
-				<source>The passwords do not match. </source>
-			<target></target></trans-unit>
+				<source>The passwords do not match.</source> <target/></trans-unit>
 			<trans-unit id="account.common.inputs.email.label">
-				<source>Is your email correct?</source>
-			<target></target></trans-unit>
+				<source>Is your email correct?</source> <target/></trans-unit>
 			<trans-unit id="account.common.inputs.email.value">
-				<source>info@sac-cas.ch</source>
-			<target></target></trans-unit>
+				<source>info@sac-cas.ch</source> <target/></trans-unit>
 			<trans-unit id="account.common.inputs.password.label">
-				<source>New password</source>
-			<target></target></trans-unit>
+				<source>New password</source> <target/></trans-unit>
 			<trans-unit id="account.common.inputs.password.tooltipHintText">
-				<source>Please use a password with at least 8 characters. It becomes safer by choosing a combination of upper and lower case letters, numbers and special characters. </source>
-			<target></target></trans-unit>
+				<source>Please use a password with at least 8 characters. It becomes safer by choosing a combination of upper and lower case letters, numbers and special characters.</source> <target/></trans-unit>
 			<trans-unit id="account.common.inputs.password2.label">
-				<source>Please enter your new passwort again.</source>
-			<target></target></trans-unit>
+				<source>Please enter your new passwort again.</source> <target/></trans-unit>
 			<trans-unit id="account.common.passwordStrengthMeter.password2.jsOptions.strengths.1">
-				<source>unsafe</source>
-			<target></target></trans-unit>
+				<source>unsafe</source> <target/></trans-unit>
 			<trans-unit id="account.common.passwordStrengthMeter.password2.jsOptions.strengths.2">
-				<source>weak</source>
-			<target></target></trans-unit>
+				<source>weak</source> <target/></trans-unit>
 			<trans-unit id="account.common.passwordStrengthMeter.password2.jsOptions.strengths.3">
-				<source>good</source>
-			<target></target></trans-unit>
+				<source>good</source> <target/></trans-unit>
 			<trans-unit id="account.common.passwordStrengthMeter.password2.jsOptions.strengths.4">
-				<source>strong</source>
-			<target></target></trans-unit>
+				<source>strong</source> <target/></trans-unit>
 			<trans-unit id="account.forgetPassword.headline">
-				<source>forgot password</source>
-			<target></target></trans-unit>
+				<source>forgot password</source> <target/></trans-unit>
 			<trans-unit id="account.forgetPassword.subline">
-				<source>Request a new password</source>
-			<target></target></trans-unit>
+				<source>Request a new password</source> <target/></trans-unit>
 			<trans-unit id="account.forgetPassword.inputs.email.label">
-				<source>email-adress</source>
-			<target></target></trans-unit>
+				<source>email-adress</source> <target/></trans-unit>
 			<trans-unit id="account.forgetPassword.submitButtonLabel">
-				<source>Request password</source>
-			<target></target></trans-unit>
+				<source>Request password</source> <target/></trans-unit>
 			<trans-unit id="account.resetPassword.headline">
-				<source>Hello %0s,</source>
-			<target></target></trans-unit>
+				<source>Hello %0s,</source> <target/></trans-unit>
 			<trans-unit id="account.resetPassword.subline">
-				<source>Please enter a new, strong password!</source>
-			<target></target></trans-unit>
+				<source>Please enter a new, strong password!</source> <target/></trans-unit>
 			<trans-unit id="account.resetPassword.submitButtonLabel">
-				<source>Save password</source>
-			<target></target></trans-unit>
+				<source>Save password</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.error.headline">
-				<source>Error</source>
-			<target></target></trans-unit>
+				<source>Error</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.error.copy">
-				<source>An error occured:</source>
-			<target></target></trans-unit>
+				<source>An error occured:</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.accountActivated.headline">
-				<source>Account</source>
-			<target></target></trans-unit>
+				<source>Account</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.accountActivated.subline">
-				<source>activation</source>
-			<target></target></trans-unit>
+				<source>activation</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.accountActivated.copy">
-				<source>Your account has been activated.</source>
-			<target></target></trans-unit>
+				<source>Your account has been activated.</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordMail.headline">
-				<source>New password</source>
-			<target></target></trans-unit>
+				<source>New password</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordMail.subline">
-				<source>has been sent</source>
-			<target></target></trans-unit>
+				<source>has been sent</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordMail.copy">
-				<source>Within a few minutes you`ll get an email with the activation-link. By cklicking it you can set your a new password within 24 hours. </source>
-			<target></target></trans-unit>
+				<source>Within a few minutes you`ll get an email with the activation-link. By cklicking it you can set your a new password within 24 hours.</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordMail.link.label">
-				<source>To the homepage</source>
-			<target></target></trans-unit>
+				<source>To the homepage</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordError.headline">
-				<source>New password</source>
-			<target></target></trans-unit>
+				<source>New password</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordError.subline">
-				<source>Error</source>
-			<target></target></trans-unit>
+				<source>Error</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordError.copy">
-				<source>Sorry, could not reset your password.</source>
-			<target></target></trans-unit>
+				<source>Sorry, could not reset your password.</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordSuccess.headline">
-				<source>New password</source>
-			<target></target></trans-unit>
+				<source>New password</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordSuccess.subline">
-				<source>set</source>
-			<target></target></trans-unit>
+				<source>set</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordSuccess.copy">
-				<source>Your password has been reset.</source>
-			<target></target></trans-unit>
+				<source>Your password has been reset.</source> <target/></trans-unit>
 			<trans-unit id="account.staticMessage.resetPasswordSuccess.link.label">
-				<source>To the login</source>
-			<target></target></trans-unit>
+				<source>To the login</source> <target/></trans-unit>
 			<trans-unit id="account.upload_profile_image.error.no_user">
-				<source>You need to login, before upload a new profile image</source>
-			<target></target></trans-unit>
+				<source>You need to login, before upload a new profile image</source> <target/></trans-unit>
 			<trans-unit id="account.upload_profile_image.error.api_only">
-				<source>Please use the API to upload a new profile image</source>
-			<target></target></trans-unit>
+				<source>Please use the API to upload a new profile image</source> <target/></trans-unit>
 			<trans-unit id="account.upload_profile_image.error.file_upload_failed">
-				<source>The file upload failed. Please try again or contact the administrator</source>
-			<target></target></trans-unit>
+				<source>The file upload failed. Please try again or contact the administrator</source> <target/></trans-unit>
 			<trans-unit id="account.upload_profile_image.error.file_upload_failed.invalid_extension">
-				<source>The uploaded file has an invalid file extension ".%s". Please try a different image or file format</source>
-			<target></target></trans-unit>
+				<source>The uploaded file has an invalid file extension ".%s". Please try a different image or file format</source> <target/></trans-unit>
 			<trans-unit id="account.upload_profile_image.error.file_upload_failed.invalid_mime_type">
-				<source>The uploaded file has an invalid mime type "%s". Please try a different image or file format</source>
-			<target></target></trans-unit>
+				<source>The uploaded file has an invalid mime type "%s". Please try a different image or file format</source> <target/></trans-unit>
 			<trans-unit id="profile.update.addressFieldsReadonlyForDependentMember.headline">
-				<source>adress</source>
-			<target></target></trans-unit>
+				<source>adress</source> <target/></trans-unit>
 			<trans-unit id="profile.update.addressFieldsReadonlyForDependentMember.copy">
-				<source>The family-adress can only be changed by the main membership</source>
-			<target></target></trans-unit>
+				<source>The family-adress can only be changed by the main membership</source> <target/></trans-unit>
 			<trans-unit id="profile.update.staticMessage.ok.headline">
-				<source>Thanks!</source>
-			<target></target></trans-unit>
+				<source>Thanks!</source> <target/></trans-unit>
 			<trans-unit id="profile.update.staticMessage.ok.copy">
-				<source>Your data has been updated</source>
-			<target></target></trans-unit>
+				<source>Your data has been updated</source> <target/></trans-unit>
 			<trans-unit id="profile.update.staticMessage.error.headline">
-				<source>We`re sorry!</source>
-			<target></target></trans-unit>
+				<source>We`re sorry!</source> <target/></trans-unit>
 			<trans-unit id="profile.update.staticMessage.error.copy">
-				<source>An error occoured when updating your data. Pleas try again later. </source>
-			<target></target></trans-unit>
+				<source>An error occoured when updating your data. Pleas try again later.</source> <target/></trans-unit>
 			<trans-unit id="c029_profile_image_upload.labels.upload">
-				<source><![CDATA[upload profile picture<br>(min. 200x200, JPG)]]></source>
-			<target></target></trans-unit>
+				<source>upload profile picture&lt;br&gt;(min. 200x200, JPG)</source> <target/></trans-unit>
 			<trans-unit id="c029_profile_image_upload.labels.delete">
-				<source>Remove </source>
-			<target></target></trans-unit>
+				<source>Remove</source> <target/></trans-unit>
 			<trans-unit id="m071_login.headline">
-				<source>All SAC services</source>
-			<target></target></trans-unit>
+				<source>All SAC services</source> <target/></trans-unit>
 			<trans-unit id="m071_login.subline">
-				<source>with only one account</source>
-			<target></target></trans-unit>
+				<source>with only one account</source> <target/></trans-unit>
 			<trans-unit id="m071_login.inputs.id.label">
-				<source>Member number or Email</source>
-			<target></target></trans-unit>
+				<source>Member number or Email</source> <target/></trans-unit>
 			<trans-unit id="m071_login.inputs.id.tooltipHintText">
-				<source><![CDATA[Your membership-No. is a <strong>6-digit number</strong>. You`ll find it on on your membership-card, which has been sent to you by post. You can also activate your account with you "DIE ALPEN"-Account Nr.  .]]></source>
-			<target></target></trans-unit>
+				<source>Your membership-No. is a &lt;strong&gt;6-digit number&lt;/strong&gt;. You`ll find it on on your membership-card, which has been sent to you by post. You can also activate your account with you "DIE ALPEN"-Account Nr. .</source> <target/></trans-unit>
 			<trans-unit id="m071_login.inputs.password.label">
-				<source>Password</source>
-			<target></target></trans-unit>
+				<source>Password</source> <target/></trans-unit>
 			<trans-unit id="m071_login.inputs.puk.label">
-				<source>PUK</source>
-			<target></target></trans-unit>
+				<source>PUK</source> <target/></trans-unit>
 			<trans-unit id="m071_login.inputs.puk.tooltipHintText">
-				<source><![CDATA[Your PUK is on your membership-card or on the last page of your "DIE Alpen" invoice.]]></source>
-			<target></target></trans-unit>
+				<source>Your PUK is on your membership-card or on the last page of your "DIE Alpen" invoice.</source> <target/></trans-unit>
 			<trans-unit id="m071_login.submitButtonLabel">
-				<source>Login</source>
-			<target></target></trans-unit>
+				<source>Login</source> <target/></trans-unit>
 			<trans-unit id="m071_login.submitButtonLabelActivation">
-				<source>Activate your SAC-account</source>
-			<target></target></trans-unit>
+				<source>Activate your SAC-account</source> <target/></trans-unit>
 			<trans-unit id="m071_login.resetPasswordLink.label">
-				<source>Forgot your password?</source>
-			<target></target></trans-unit>
+				<source>Forgot your password?</source> <target/></trans-unit>
 			<trans-unit id="m071_login.registrationLink.label">
-				<source><![CDATA[<span class="fs-copy-note">No member of SAC? No problem!</span><br>Sign up now for free!]]></source>
-			<target></target></trans-unit>
+				<source>&lt;span class="fs-copy-note"&gt;No member of SAC? No problem!&lt;/span&gt;&lt;br&gt;Sign up now for free!</source> <target/></trans-unit>
 			<trans-unit id="m071_login.registrationLinkMembership.label">
-				<source><![CDATA[<span class="fs-copy-note">Not an SAC-Member yet?</span><br>Get your SAC-Membership now!]]></source>
-			<target></target></trans-unit>
+				<source>&lt;span class="fs-copy-note"&gt;Not an SAC-Member yet?&lt;/span&gt;&lt;br&gt;Get your SAC-Membership now!</source> <target/></trans-unit>
 			<trans-unit id="m071_login.socialLogin.headline">
-				<source>Sign-in with external service</source>
-			<target></target></trans-unit>
+				<source>Sign-in with external service</source> <target/></trans-unit>
 			<trans-unit id="m071_login.info.headline">
-				<source>Here for the first time?</source>
-			<target></target></trans-unit>
+				<source>Here for the first time?</source> <target/></trans-unit>
 			<trans-unit id="m071_login.info.copy">
-				<source><![CDATA[<p>Activate your SAC-Account with your membership-No. and your PUK!</p>]]></source>
-			<target></target></trans-unit>
+				<source>&lt;p&gt;Activate your SAC-Account with your membership-No. and your PUK!&lt;/p&gt;</source> <target/></trans-unit>
 			<trans-unit id="m071_login.activationInfo.headline">
-				<source>Where is my PUK?</source>
-			<target></target></trans-unit>
+				<source>Where is my PUK?</source> <target/></trans-unit>
 			<trans-unit id="m071_login.activationInfo.copy">
-				<source><![CDATA[Your PUK is on your membership-card or on the last page of your "DIE Alpen" invoice]]></source>
-			<target></target></trans-unit>
+				<source>Your PUK is on your membership-card or on the last page of your "DIE Alpen" invoice</source> <target/></trans-unit>
 			<trans-unit id="m071_login.jsOptions.errorTexts.id">
-				<source>Your Membership-No or email is not correct. Please retry.</source>
-			<target></target></trans-unit>
+				<source>Your Membership-No or email is not correct. Please retry.</source> <target/></trans-unit>
 			<trans-unit id="m071_login.jsOptions.errorTexts.password">
-				<source>Your login is not correct. Please retry.</source>
-			<target></target></trans-unit>
+				<source>Your login is not correct. Please retry.</source> <target/></trans-unit>
 			<trans-unit id="m071_login.jsOptions.errorTexts.puk">
-				<source>We`re sorry, your PUK is not correct. Please retry or contact our membership-service. </source>
-			<target></target></trans-unit>
+				<source>We`re sorry, your PUK is not correct. Please retry or contact our membership-service.</source> <target/></trans-unit>
 			<trans-unit id="c013_teaser_content.link.label">
-				<source>More information</source>
-			<target></target></trans-unit>
+				<source>More information</source> <target/></trans-unit>
 			<trans-unit id="m011_search_form.form.input.placeholder.firstBold">
-				<source>search for</source>
-			<target></target></trans-unit>
+				<source>search for</source> <target/></trans-unit>
 			<trans-unit id="m011_search_form.form.input.placeholder.second">
-				<source>Article, course, theme, Hut, Tour, …</source>
-			<target></target></trans-unit>
+				<source>Article, course, theme, Hut, Tour, …</source> <target/></trans-unit>
 			<trans-unit id="profile.logout.label">
-				<source>Logout</source>
-			<target></target></trans-unit>
+				<source>Logout</source> <target/></trans-unit>
 			<trans-unit id="profile.membershipNumber.label">
-				<source>Membership-No.</source>
-			<target></target></trans-unit>
+				<source>Membership-No.</source> <target/></trans-unit>
 			<trans-unit id="profile.subscriberNumber.label">
-				<source>Subscriber Number</source>
-			<target></target></trans-unit>
+				<source>Subscriber Number</source> <target/></trans-unit>
 			<trans-unit id="profile.email.label">
-				<source><![CDATA[Email<br><span class="fs-copy-note-bold">%s</span>]]></source>
-			<target></target></trans-unit>
+				<source>Email&lt;br&gt;&lt;span class="fs-copy-note-bold"&gt;%s&lt;/span&gt;</source> <target/></trans-unit>
 			<trans-unit id="profile.lastLoggedIn.label">
-				<source>Last logged in at </source>
-			<target></target></trans-unit>
+				<source>Last logged in at</source> <target/></trans-unit>
 			<trans-unit id="profile.mySections.label">
-				<source>My sections</source>
-			<target></target></trans-unit>
+				<source>My sections</source> <target/></trans-unit>
 			<trans-unit id="profile.mySections.other.label">
-				<source>others</source>
-			<target></target></trans-unit>
+				<source>others</source> <target/></trans-unit>
 			<trans-unit id="header.menu.label">
-				<source>Menu</source>
-			<target></target></trans-unit>
+				<source>Menu</source> <target/></trans-unit>
 			<trans-unit id="form.image.upload.value">
-				<source>File selected</source>
-			<target></target></trans-unit>
+				<source>File selected</source> <target/></trans-unit>
 			<trans-unit id="form.image.upload.file.size">
-				<source>Size</source>
-			<target></target></trans-unit>
+				<source>Size</source> <target/></trans-unit>
 			<trans-unit id="form.image.upload.file.format">
-				<source>Format</source>
-			<target></target></trans-unit>
+				<source>Format</source> <target/></trans-unit>
 			<trans-unit id="error.image.counter">
-				<source>You tried to upload %0s files but the maximum is %1s.</source>
-			<target></target></trans-unit>
+				<source>You tried to upload %0s files but the maximum is %1s.</source> <target/></trans-unit>
 			<trans-unit id="error.image.not_allowed_upload">
-				<source>%0s: is not allowed. Only images with extensions %1s are allowed</source>
-			<target></target></trans-unit>
+				<source>%0s: is not allowed. Only images with extensions %1s are allowed</source> <target/></trans-unit>
 			<trans-unit id="error.image.in.uploading">
-				<source>An error occurred while uploading. Please try again or contact the administrator if the problem remains</source>
-			<target></target></trans-unit>
+				<source>An error occurred while uploading. Please try again or contact the administrator if the problem remains</source> <target/></trans-unit>
 			<trans-unit id="error.image.uploaded.size">
-				<source>%0s: exceeds the maximum size limit of %1s MB</source>
-			<target></target></trans-unit>
+				<source>%0s: exceeds the maximum size limit of %1s MB</source> <target/></trans-unit>
 			<trans-unit id="error.image.fileError">
-				<source>The value assigned to uploader must be of type Image</source>
-			<target></target></trans-unit>
+				<source>The value assigned to uploader must be of type Image</source> <target/></trans-unit>
 			<trans-unit id="footer.social.facebook.url">
-				<source>https://www.facebook.com/SchweizerAlpenClub/</source>
-			<target></target></trans-unit>
+				<source>https://www.facebook.com/SchweizerAlpenClub/</source> <target/></trans-unit>
 			<trans-unit id="footer.newsletter.title">
-				<source>Subscribe to the SAC-Newsletter</source>
-			<target></target></trans-unit>
+				<source>Subscribe to the SAC-Newsletter</source> <target/></trans-unit>
 			<trans-unit id="footer.newsletter.form.action.url">
-				<source><![CDATA[https://sac-cas.us2.list-manage.com/subscribe/post?u=466a37a029f12e4df9e7a2a1f&id=ee3f0f3cf3]]></source>
-			<target></target></trans-unit>
+				<source>https://sac-cas.us2.list-manage.com/subscribe/post?u=466a37a029f12e4df9e7a2a1f&amp;id=ee3f0f3cf3</source> <target/></trans-unit>
 			<trans-unit id="footer.newsletter.email.label">
-				<source>Your email-adress</source>
-			<target></target></trans-unit>
+				<source>Your email-adress</source> <target/></trans-unit>
 			<trans-unit id="footer.newsletter.submit.value">
-				<source>Subscribe now</source>
-			<target></target></trans-unit>
+				<source>Subscribe now</source> <target/></trans-unit>
 			<trans-unit id="header.search.value">
-				<source><![CDATA[<strong>Search for</strong> Article, course, theme, Hut, Tour, …]]></source>
-			<target></target></trans-unit>
+				<source>&lt;strong&gt;Search for&lt;/strong&gt; Article, course, theme, Hut, Tour, …</source> <target/></trans-unit>
 			<trans-unit id="shop.shopNavigation.title">
-				<source>Categories</source>
-			<target></target></trans-unit>
+				<source>Categories</source> <target/></trans-unit>
 			<trans-unit id="tx_usersaccassite_domain_model_sponsor">
-				<source>Sponsor</source>
-			<target></target></trans-unit>
+				<source>Sponsor</source> <target/></trans-unit>
 			<trans-unit id="tx_usersaccassite_domain_model_sponsor.title">
-				<source>Title</source>
-			<target></target></trans-unit>
+				<source>Title</source> <target/></trans-unit>
 			<trans-unit id="tx_usersaccassite_domain_model_sponsor.link">
-				<source>Link</source>
-			<target></target></trans-unit>
+				<source>Link</source> <target/></trans-unit>
 			<trans-unit id="tx_usersaccassite_domain_model_sponsor.image">
-				<source>Image</source>
-			<target></target></trans-unit>
+				<source>Image</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.full.0">
-				<source>German</source>
-			<target></target></trans-unit>
+				<source>German</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.full.1">
-				<source>French</source>
-			<target></target></trans-unit>
+				<source>French</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.full.2">
-				<source>Italian</source>
-			<target></target></trans-unit>
+				<source>Italian</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.full.3">
-				<source>English</source>
-			<target></target></trans-unit>
+				<source>English</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.short.0">
-				<source>DE</source>
-			<target></target></trans-unit>
+				<source>DE</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.short.1">
-				<source>FR</source>
-			<target></target></trans-unit>
+				<source>FR</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.short.2">
-				<source>IT</source>
-			<target></target></trans-unit>
+				<source>IT</source> <target/></trans-unit>
 			<trans-unit id="languageMenu.title.short.3">
-				<source>EN</source>
-			<target></target></trans-unit>
+				<source>EN</source> <target/></trans-unit>
 			<trans-unit id="validator.phonenumber.nomatch">
-				<source>Your phone-No. is not in the correct format:  +41 00 000 00 00</source>
-			<target></target></trans-unit>
+				<source>Your phone-No. is not in the correct format: +41 00 000 00 00</source> <target/></trans-unit>
 			<trans-unit id="validator.email.unique">
-				<source>This email is already registred</source>
-			<target></target></trans-unit>
+				<source>This email is already registred</source> <target/></trans-unit>
 			<trans-unit id="validator.birthday.invalid_date">
-				<source>This date is invalid</source>
-			<target></target></trans-unit>
+				<source>This date is invalid</source> <target/></trans-unit>
 			<trans-unit id="validator.birthday.too_old">
-				<source>Your date of birth seems unrealistically far in the past.</source>
-			<target></target></trans-unit>
+				<source>Your date of birth seems unrealistically far in the past.</source> <target/></trans-unit>
 			<trans-unit id="validator.birthday.born_in_future">
-				<source>Your date of birth seems unrealistically far in the future.</source>
-			<target></target></trans-unit>
+				<source>Your date of birth seems unrealistically far in the future.</source> <target/></trans-unit>
 			<trans-unit id="element.GenderSelect.properties.options.HERR">
-				<source>Mr.</source>
-			<target></target></trans-unit>
+				<source>Mr.</source> <target/></trans-unit>
 			<trans-unit id="element.GenderSelect.properties.options.FRAU">
-				<source>Mrs.</source>
-			<target></target></trans-unit>
+				<source>Mrs.</source> <target/></trans-unit>
 			<trans-unit id="element.MembershipStart.properties.options.now">
-				<source>Now</source>
-			<target></target></trans-unit>
+				<source>Now</source> <target/></trans-unit>
 			<trans-unit id="element.MembershipStart.properties.options.july">
-				<source>1. July</source>
-			<target></target></trans-unit>
+				<source>1. July</source> <target/></trans-unit>
 			<trans-unit id="element.MembershipStart.properties.options.october">
-				<source>1. October</source>
-			<target></target></trans-unit>
+				<source>1. October</source> <target/></trans-unit>
 			<trans-unit id="element.postbox.properties.label">
-				<source>PO box</source>
-			<target></target></trans-unit>
+				<source>PO box</source> <target/></trans-unit>
 			<trans-unit id="element.correspondenceLanguage.properties.label">
-				<source>Language for correspondence</source>
-			<target></target></trans-unit>
+				<source>Language for correspondence</source> <target/></trans-unit>
 			<trans-unit id="element.phoneHome.properties.label">
-				<source>Phone-No. private</source>
-			<target></target></trans-unit>
+				<source>Phone-No. private</source> <target/></trans-unit>
 			<trans-unit id="element.phoneCompany.properties.label">
-				<source>Phone-No. business</source>
-			<target></target></trans-unit>
+				<source>Phone-No. business</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.form.header">
-				<source status="new">Password</source>
-			<target></target></trans-unit>
+				<source status="new">Password</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.form.password.label">
-				<source status="new">New password</source>
-			<target></target></trans-unit>
+				<source status="new">New password</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.form.passwordConfirmation.label">
-				<source status="new">Please enter the new password again</source>
-			<target></target></trans-unit>
+				<source status="new">Please enter the new password again</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.form.setNewPassword">
-				<source status="new">set a new password!</source>
-			<target></target></trans-unit>
+				<source status="new">set a new password!</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.form.submit">
-				<source status="new">Set password</source>
-			<target></target></trans-unit>
+				<source status="new">Set password</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.form.password.tooltipHintText">
-				<source status="new">Use at least 8 characters. Your password will be safer if you use a mixture of capital and lowercase letters, as well as numbers and special characters.</source>
-			<target></target></trans-unit>
+				<source status="new">Use at least 8 characters. Your password will be safer if you use a mixture of capital and lowercase letters, as well as numbers and special characters.</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.ok.header">
-				<source>Thank you!</source>
-			<target></target></trans-unit>
+				<source>Thank you!</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.ok.copy">
-				<source>Your new password has been saved</source>
-			<target></target></trans-unit>
+				<source>Your new password has been saved</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.validator.password.1238108068">
-				<source>Your password is too short. </source>
-			<target></target></trans-unit>
+				<source>Your password is too short.</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.noMatch.header">
-				<source>An error occoured. </source>
-			<target></target></trans-unit>
+				<source>An error occoured.</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.noMatch.copy">
-				<source>The passwords do not match. </source>
-			<target></target></trans-unit>
+				<source>The passwords do not match.</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.genericError.header">
-				<source>An error occoured. </source>
-			<target></target></trans-unit>
+				<source>An error occoured.</source> <target/></trans-unit>
 			<trans-unit id="account.changePassword.genericError.copy">
-				<source>Please retry with a new password. </source>
-			<target></target></trans-unit>
+				<source>Please retry with a new password.</source> <target/></trans-unit>
 			<trans-unit id="external.link.sponsor.tissot">
-				<source>https://www.tissotwatches.com/en-gb/homepage</source>
-			<target></target></trans-unit>
+				<source>https://www.tissotwatches.com/en-gb/homepage</source> <target/></trans-unit>
 			<trans-unit id="common.callToAction.label">
-				<source>Get more info</source>
-			<target></target></trans-unit>
+				<source>Get more info</source> <target/></trans-unit>
 			<trans-unit id="common.mySac.label">
-				<source>My SAC</source>
-			<target></target></trans-unit>
+				<source>My SAC</source> <target/></trans-unit>
 			<trans-unit id="results_found">
-				<source>%d results</source>
-			<target></target></trans-unit>
+				<source>%d results</source> <target/></trans-unit>
 			<trans-unit id="results_searched_for">
-				<source>for "%s"</source>
-			<target></target></trans-unit>
+				<source>for "%s"</source> <target/></trans-unit>
 			<trans-unit id="search.results.document.relevancy">
-				<source>Relevancy: %d%%</source>
-			<target></target></trans-unit>
+				<source>Relevancy: %d%%</source> <target/></trans-unit>
 			<trans-unit id="search.results.document.published">
-				<source>Published on: %s</source>
-			<target></target></trans-unit>
+				<source>Published on: %s</source> <target/></trans-unit>
 			<trans-unit id="search.results.document.eventdate">
-				<source>Event date: %s</source>
-			<target></target></trans-unit>
+				<source>Event date: %s</source> <target/></trans-unit>
 			<trans-unit id="search.results.document.startson">
-				<source>From: %s</source>
-			<target></target></trans-unit>
+				<source>From: %s</source> <target/></trans-unit>
 			<trans-unit id="search.results.document.found">
-				<source>Found on %s</source>
-			<target></target></trans-unit>
+				<source>Found on %s</source> <target/></trans-unit>
 			<trans-unit id="search.results.document.issue">
-				<source>Issue: %s</source>
-			<target></target></trans-unit>
+				<source>Issue: %s</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.all">
-				<source>All %s</source>
-			<target></target></trans-unit>
+				<source>All %s</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.pages">
-				<source>Pages</source>
-			<target></target></trans-unit>
+				<source>Pages</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.article">
-				<source>Articles</source>
-			<target></target></trans-unit>
+				<source>Articles</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.magazine_article">
-				<source>Die Alpen Articles</source>
-			<target></target></trans-unit>
+				<source>Die Alpen Articles</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.event">
-				<source>Events</source>
-			<target></target></trans-unit>
+				<source>Events</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.course">
-				<source>Courses</source>
-			<target></target></trans-unit>
+				<source>Courses</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.tour_destination">
-				<source>Huts &amp; Tours</source>
-			<target></target></trans-unit>
+				<source>Huts &amp; Tours</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.product">
-				<source>Products</source>
-			<target></target></trans-unit>
+				<source>Products</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.label.nextPage">
-				<source>Load more</source>
-			<target></target></trans-unit>
+				<source>Load more</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.of">
-				<source>of</source>
-			<target></target></trans-unit>
+				<source>of</source> <target/></trans-unit>
 			<trans-unit id="search.results.group.sort">
-				<source>Sort by</source>
-			<target></target></trans-unit>
+				<source>Sort by</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.headline">
-				<source>Filter by</source>
-			<target></target></trans-unit>
+				<source>Filter by</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.all">
-				<source>All</source>
-			<target></target></trans-unit>
+				<source>All</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.pages">
-				<source>Pages</source>
-			<target></target></trans-unit>
+				<source>Pages</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.article">
-				<source>Articles</source>
-			<target></target></trans-unit>
+				<source>Articles</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.magazine_article">
-				<source>Die Alpen (Magazine)</source>
-			<target></target></trans-unit>
+				<source>Die Alpen (Magazine)</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.event">
-				<source>Events</source>
-			<target></target></trans-unit>
+				<source>Events</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.course">
-				<source>Courses</source>
-			<target></target></trans-unit>
+				<source>Courses</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.tour_destination">
-				<source>Huts &amp; Tours</source>
-			<target></target></trans-unit>
+				<source>Huts &amp; Tours</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.product">
-				<source>Products</source>
-			<target></target></trans-unit>
+				<source>Products</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.pageHierarchy">
-				<source>Category</source>
-			<target></target></trans-unit>
+				<source>Category</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.courselevel">
-				<source>Level</source>
-			<target></target></trans-unit>
+				<source>Level</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.coursetype">
-				<source>Type</source>
-			<target></target></trans-unit>
+				<source>Type</source> <target/></trans-unit>
 			<trans-unit id="search.results.facets.magazineIssue">
-				<source status="new">Issue</source>
-			<target></target></trans-unit>
+				<source status="new">Issue</source> <target/></trans-unit>
 			<trans-unit id="search.results.sorting.label.relevance">
-				<source>Relevance</source>
-			<target></target></trans-unit>
+				<source>Relevance</source> <target/></trans-unit>
 			<trans-unit id="search.results.sorting.label.created">
-				<source>Date</source>
-			<target></target></trans-unit>
+				<source>Date</source> <target/></trans-unit>
 			<trans-unit id="search.results.sorting.label.date">
-				<source>Date</source>
-			<target></target></trans-unit>
+				<source>Date</source> <target/></trans-unit>
 			<trans-unit id="search.results.sorting.label.startdate">
-				<source>Date</source>
-			<target></target></trans-unit>
+				<source>Date</source> <target/></trans-unit>
 			<trans-unit id="search.results.sorting.label.asc">
-				<source>↑</source>
-			<target></target></trans-unit>
+				<source>↑</source> <target/></trans-unit>
 			<trans-unit id="search.results.sorting.label.desc">
-				<source>↓</source>
-			<target></target></trans-unit>
+				<source>↓</source> <target/></trans-unit>
 			<trans-unit id="element.feuserupdate.renderingOptions.submitButtonLabel">
-				<source>Save</source>
-			<target></target></trans-unit>
+				<source>Save</source> <target/></trans-unit>
 			<trans-unit id="feuserupdate.validation.error.dateOfBirth.1221565130">
-				<source>Please use format: dd.mm.YYYY</source>
-			<target></target></trans-unit>
+				<source>Please use format: dd.mm.YYYY</source> <target/></trans-unit>
 			<trans-unit id="cookieConsent.message">
-				<source>The Swiss Alpine Club SAC uses cookies on its website to provide you with the best possible service. If you continue to browse the site, you agree to the use of cookies.</source>
-			<target></target></trans-unit>
+				<source>The Swiss Alpine Club SAC uses cookies on its website to provide you with the best possible service. If you continue to browse the site, you agree to the use of cookies.</source> <target/></trans-unit>
 			<trans-unit id="cookieConsent.dismiss">
-				<source>I agree</source>
-			<target></target></trans-unit>
+				<source>I agree</source> <target/></trans-unit>
 			<trans-unit id="element.newMember.renderingOptions.submitButtonLabel">
-				<source>Apply for Membership</source>
-			<target></target></trans-unit>
+				<source>Apply for Membership</source> <target/></trans-unit>
 			<trans-unit id="contact.form.headline">
-				<source>We appreciate your message</source>
-			<target></target></trans-unit>
+				<source>We appreciate your message</source> <target/></trans-unit>
 
 			<trans-unit id="m024_navigation_panel.specialNav.headline">
-				<source>Services</source>
-			<target></target></trans-unit>
+				<source>Services</source> <target/></trans-unit>
 			<trans-unit id="m024_navigation_panel.specialNav.subline">
-				<source>and membership</source>
-			<target></target></trans-unit>
+				<source>and membership</source> <target/></trans-unit>
 
 			<trans-unit id="m107_shop_footer.infos.headline">
-				<source>Safe shopping</source>
-			<target></target></trans-unit>
+				<source>Safe shopping</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.infos.orderingPayment">
-				<source><![CDATA[Order & Payment]]></source>
-			<target></target></trans-unit>
+				<source>Order &amp; Payment</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.infos.shippingReturns">
-				<source><![CDATA[shipping & Return]]></source>
-			<target></target></trans-unit>
+				<source>shipping &amp; Return</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.infos.returnWarranty">
-				<source><![CDATA[Return & Warranty]]></source>
-			<target></target></trans-unit>
+				<source>Return &amp; Warranty</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.highlights.headline">
-				<source>Highlights</source>
-			<target></target></trans-unit>
+				<source>Highlights</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.headline">
-				<source>Payment and Shipping</source>
-			<target></target></trans-unit>
+				<source>Payment and Shipping</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.0.img.src">
-				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/visa.svg</source>
-			<target></target></trans-unit>
+				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/visa.svg</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.0.img.alt">
-				<source>Visa</source>
-			<target></target></trans-unit>
+				<source>Visa</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.1.img.src">
-				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/mastercard.svg</source>
-			<target></target></trans-unit>
+				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/mastercard.svg</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.1.img.alt">
-				<source>Mastercard</source>
-			<target></target></trans-unit>
+				<source>Mastercard</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.2.label">
-				<source><![CDATA[<strong>Invoice</strong>]]></source>
-			<target></target></trans-unit>
+				<source>&lt;strong&gt;Invoice&lt;/strong&gt;</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.3.img.src">
-				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/paypal.svg</source>
-			<target></target></trans-unit>
+				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/paypal.svg</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.3.img.alt">
-				<source>Paypal</source>
-			<target></target></trans-unit>
+				<source>Paypal</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.4.img.src">
-				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/post-finance.svg</source>
-			<target></target></trans-unit>
+				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/post-finance.svg</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.4.img.alt">
-				<source>PostFinance</source>
-			<target></target></trans-unit>
+				<source>PostFinance</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.5.img.src">
-				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/post-versand.svg</source>
-			<target></target></trans-unit>
+				<source>typo3conf/ext/usersaccassite/Resources/Public/Images/Payment/post-versand.svg</source> <target/></trans-unit>
 			<trans-unit id="m107_shop_footer.paymentOptions.logos.5.img.alt">
-				<source>Die Post</source>
-			<target></target></trans-unit>
+				<source>Die Post</source> <target/></trans-unit>
 			<trans-unit id="news.alps.pdf.heading">
-				<source state="new">Entire issue</source>
-			<target></target></trans-unit>
+				<source state="new">Entire issue</source> <target/></trans-unit>
 			<trans-unit id="news.alps.pdf.link.label">
-				<source state="new">Download THE ALPS %s</source>
-			<target></target></trans-unit>
+				<source state="new">Download THE ALPS %s</source> <target/></trans-unit>
 			<trans-unit id="m039_info_table.translations.expand">
-				<source state="new">More</source>
-			<target></target></trans-unit>
+				<source state="new">More</source> <target/></trans-unit>
 			<trans-unit id="m039_info_table.translations.collapse">
-				<source state="new">Less</source>
-			<target></target></trans-unit>
+				<source state="new">Less</source> <target/></trans-unit>
 			<trans-unit id="m082_sharing_buttons.facebook.ariaLabel">
-				<source>Share on Facebook</source>
-			<target></target></trans-unit>
+				<source>Share on Facebook</source> <target/></trans-unit>
 			<trans-unit id="m082_sharing_buttons.twitter.ariaLabel">
-				<source>Share on Twitter</source>
-			<target></target></trans-unit>
+				<source>Share on Twitter</source> <target/></trans-unit>
 			<trans-unit id="m082_sharing_buttons.googleplus.ariaLabel">
-				<source>Share on Google+</source>
-			<target></target></trans-unit>
+				<source>Share on Google+</source> <target/></trans-unit>
 			<trans-unit id="m082_sharing_buttons.mail.ariaLabel">
-				<source>Share by Email</source>
-			<target></target></trans-unit>
+				<source>Share by Email</source> <target/></trans-unit>
 			<trans-unit id="m082_sharing_buttons.whatsapp.ariaLabel">
-				<source>Share by Whatsapp</source>
-			<target></target></trans-unit>
+				<source>Share by Whatsapp</source> <target/></trans-unit>
 
 			<trans-unit id="m126_sticky_side_navigation.links.feedback.label">
-				<source>feedback</source>
-			<target></target></trans-unit>
+				<source>feedback</source> <target/></trans-unit>
 
 			<trans-unit id="manifest.name">
-				<source>Swiss Alpine Club SAC</source>
-			<target></target></trans-unit>
+				<source>Swiss Alpine Club SAC</source> <target/></trans-unit>
 			<trans-unit id="manifest.short_name">
-				<source>SAC</source>
-			<target></target></trans-unit>
+				<source>SAC</source> <target/></trans-unit>
 			<trans-unit id="manifest.description">
-				<source>With around 150,000 members, the Swiss Alpine Club SAC is one of the largest sports associations in Switzerland.</source>
-			<target></target></trans-unit>
+				<source>With around 150,000 members, the Swiss Alpine Club SAC is one of the largest sports associations in Switzerland.</source> <target/></trans-unit>
 			<trans-unit id="more.about">
-				<source>More about %s</source>
-			<target></target></trans-unit>
+				<source>More about %s</source> <target/></trans-unit>
 			<trans-unit id="common.search.label">
-				<source>Search</source>
-			<target></target></trans-unit>
+				<source>Search</source> <target/></trans-unit>
 			<trans-unit id="news.list.badgeAriaLabel.alps">
-				<source>Alps article icon</source>
-			<target></target></trans-unit>
+				<source>Alps article icon</source> <target/></trans-unit>
 		</body>
 	</file>
 </xliff>
