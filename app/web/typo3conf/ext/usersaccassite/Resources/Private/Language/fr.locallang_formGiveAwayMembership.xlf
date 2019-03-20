@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-16T11:52:48Z" product-name="usersaccassite" target-language="fr">
+		<header/>
+		<body>
+			<trans-unit id="element.Page.renderingOptions.nextButtonLabel" approved="yes">
+				<source>Next Step</source>
+			<target state="translated">Prochaine étape</target></trans-unit>
+			<trans-unit id="element.Page.renderingOptions.previousButtonLabel" approved="yes">
+				<source>Previous Step</source>
+			<target state="translated">Précédent</target></trans-unit>
+			<trans-unit id="element.summarypage-1.renderingOptions.previousButtonLabel" approved="yes">
+				<source>Previous Step</source>
+			<target state="translated">Précédent</target></trans-unit>
+			<trans-unit id="element.summarypage-1.properties.label" approved="yes">
+				<source>Summary</source>
+			<target state="translated">Résumé</target></trans-unit>
+			<trans-unit id="element.giveAwayMembership.renderingOptions.submitButtonLabel" approved="yes">
+				<source>Apply for Membership</source>
+			<target state="translated">Demande d'affiliation</target></trans-unit>
+			<trans-unit id="element.page-1.properties.label" approved="yes">
+				<source>Invoice Recipient</source>
+			<target state="translated">Destinataire de la facture</target></trans-unit>
+			<trans-unit id="element.page-2.properties.label" approved="yes">
+				<source>Gifted person</source>
+			<target state="translated">Bénéficiaire de l'offre</target></trans-unit>
+			<trans-unit id="element.giveaway-acknowledgement.properties.label" approved="yes">
+				<source>Yes, I give the following person an annual membership in the SAC and pay the costs. The following year, the gifted person receives a regular membership bill, which he or she can regularly announce (if you would like to donate several years at a time, please contact our membership service).</source>
+			<target state="translated">Oui, j'offre à la personne suivante une affiliation d'une année au CAS en prenant les coûts à ma charge. L'année suivante, le bénéficiaire de l'offre reçoit une facture d'affiliation qu'il peut résilier selon conditions (merci de contacter notre service aux membres pour une offre d'affiliation sur plusieurs années).</target></trans-unit>
+			<trans-unit id="element.mobile-sender.properties.label" approved="yes">
+				<source>Mobile phone</source>
+			<target state="translated">Tél. mobile</target></trans-unit>
+			<trans-unit id="element.phone-recipient.properties.label" approved="yes">
+				<source>Phone</source>
+			<target state="translated">Téléphone</target></trans-unit>
+			<trans-unit id="element.send-information-to.properties.label" approved="yes">
+				<source>Gift documents</source>
+			<target state="translated">Documentation de l'offre</target></trans-unit>
+			<trans-unit id="element.send-information-to.properties.options.buyer" approved="yes">
+				<source>Send to me</source>
+			<target state="translated">À m'envoyer</target></trans-unit>
+			<trans-unit id="element.send-information-to.properties.options.recipient" approved="yes">
+				<source>Send to the given person</source>
+			<target state="translated">Envoyer au bénéficiaire de l'offre</target></trans-unit>
+			<trans-unit id="element.fieldset-member-more-infos-recipient.properties.label" approved="yes">
+				<source>More Informations</source>
+			<target state="translated">Informations complémentaires</target></trans-unit>
+			<trans-unit id="element.fieldset-giveaway-acknowledgment.properties.label" approved="yes">
+				<source>More Informations</source>
+			<target state="translated">Informations complémentaires</target></trans-unit>
+			<trans-unit id="element.fieldset-member-family-membership.properties.label" approved="yes">
+				<source>Family membership</source>
+			<target state="translated">Membre Famille</target></trans-unit>
+			<trans-unit id="element.fieldset-2.properties.label" approved="yes">
+				<source>Membership</source>
+			<target state="translated">Affiliation</target></trans-unit>
+			<trans-unit id="element.fieldset-main-1.properties.label" approved="yes">
+				<source>Membership</source>
+			<target state="translated">Affiliation</target></trans-unit>
+			<trans-unit id="element.fieldset-member-more-infos.properties.label" approved="yes">
+				<source>Membership start</source>
+			<target state="translated">Affiliation dès</target></trans-unit>
+			<trans-unit id="element.fieldset-member-personal-datas-recipient.properties.label" approved="yes">
+				<source>Personal data recipient</source>
+			<target state="translated">Données personnelles du destinataire</target></trans-unit>
+			<trans-unit id="element.fieldset-send-information-to.properties.label" approved="yes">
+				<source>Giveaway documents</source>
+			<target state="translated">Documentation de l'offre</target></trans-unit>
+			<trans-unit id="element.fieldset-member-personal-datas.properties.label" approved="yes">
+				<source>Personal data invoice recipient</source>
+			<target state="translated">Données personnelles du destinataire de la facture</target></trans-unit>
+			<trans-unit id="element.fieldset-member-address-infos.properties.label" approved="yes">
+				<source>Address information invoice recipient</source>
+			<target state="translated">Informations de l'adresse du destinataire de la facture</target></trans-unit>
+			<trans-unit id="element.fieldset-1.properties.label" approved="yes">
+				<source>General information invoice recipient</source>
+			<target state="translated">Informations générales sur le destinataire de la facture</target></trans-unit>
+			<trans-unit id="finisher.EmailToSender.subject" approved="yes">
+				<source>Your membership giveaway at the Swiss Alpine-Club SAC</source>
+			<target state="translated">Ton affiliation gratuite au sein du Club Alpin Suisse CAS</target></trans-unit>
+			<trans-unit id="finisher.EmailToSender.senderName" approved="yes">
+				<source>Swiss Alpine-Club SAC</source>
+			<target state="translated">Club Alpin Suisse CAS</target></trans-unit>
+			<trans-unit id="element.phone-sender.properties.label" approved="yes">
+				<source>Phone</source>
+			<target state="translated">Tél.</target></trans-unit>
+			<trans-unit id="element.mobile-recipient.properties.label" approved="yes">
+				<source>Mobile</source>
+			<target state="translated">Tél. mobile</target></trans-unit>
+		</body>
+	</file>
+</xliff>
