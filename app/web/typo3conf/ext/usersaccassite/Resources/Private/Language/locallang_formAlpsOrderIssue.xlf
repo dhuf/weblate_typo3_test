@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T17:07:01Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="alpsOrderIssue.element.page-1.properties.label">
+				<source>Order an Issue</source>
+			</trans-unit>
+			<trans-unit id="alpsOrderIssue.element.fieldset-1.properties.label">
+				<source>Your data</source>
+			</trans-unit>
+			<trans-unit id="alpsOrderIssue.element.page-1.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+			<trans-unit id="alpsOrderIssue.element.fieldset-2.properties.label">
+				<source>Order</source>
+			</trans-unit>
+			<trans-unit id="alpsOrderIssue.element.summarypage.properties.label">
+				<source>Your order informations</source>
+			</trans-unit>
+			<trans-unit id="alpsOrderIssue.element.summarypage.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="alpsOrderIssue.element.alpsOrderIssue.renderingOptions.submitButtonLabel">
+				<source>Submit your order</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

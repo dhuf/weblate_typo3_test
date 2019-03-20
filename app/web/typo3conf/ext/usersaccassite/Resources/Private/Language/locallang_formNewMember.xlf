@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T17:07:54Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="newMember.element.fieldset-1.properties.label">
+				<source>Member information</source>
+			</trans-unit>
+
+			<trans-unit id="newMember.element.fieldset-2.properties.label">
+				<source>Address info</source>
+			</trans-unit>
+
+			<trans-unit id="newMember.element.fieldset-3.properties.label">
+				<source>Personal data</source>
+			</trans-unit>
+
+			<trans-unit id="newMember.element.fieldset-4.properties.label">
+				<source>Membership</source>
+			</trans-unit>
+
+			<trans-unit id="newMember.element.fieldset-5.properties.label">
+				<source>Family membership</source>
+			</trans-unit>
+
+			<trans-unit id="newMember.element.fieldset-6.properties.label">
+				<source>More information</source>
+			</trans-unit>
+
+			<trans-unit id="newMember.element.promoCode.properties.label">
+				<source>Promotion code</source>
+			</trans-unit>
+
+			<trans-unit id="email.newMember.header.typolink.label">
+				<source>Membership advantages</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.header.typolink.title">
+				<source>Membership advantages</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.header.typolink.parameter">
+				<source>668</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.messageTitle">
+				<source>Your membership at the Swiss Alpin Club SAC</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.hello">
+				<source>Hi %s,</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.messageTop">
+				<source>Thanks for your subscription</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.messageBottom">
+				<source>We will keep you posted for the next steps.</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.salutation">
+				<source>Your SAC</source>
+			</trans-unit>
+			<trans-unit id="email.newMember.footer.resort_title">
+				<source>Membership resort</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

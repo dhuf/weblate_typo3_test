@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-01-09T16:11:09+01:00" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.CType.div._usersaccassite_" xml:space="preserve">
+				<source>SAC Contents</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_button" xml:space="preserve">
+				<source>Button</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_button_title" xml:space="preserve">
+				<source>Button link</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_button_description" xml:space="preserve">
+				<source>Button link with editable text</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_feuserupdateform" xml:space="preserve">
+				<source>Fe user update form</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_feuserupdateform_title" xml:space="preserve">
+				<source>Fe user update form</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_feuserupdateform_description" xml:space="preserve">
+				<source>Fe user update form rendering</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_ids_user_listing" xml:space="preserve">
+				<source>User listing</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_ids_user_listing_title" xml:space="preserve">
+				<source>User listing</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_ids_user_listing_description" xml:space="preserve">
+				<source>List Users depending on Ids roles</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_image_text" xml:space="preserve">
+				<source>Image text</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_image_text_title" xml:space="preserve">
+				<source>Image text</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_image_text_description" xml:space="preserve">
+				<source>Left image with text on the right</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_infobox" xml:space="preserve">
+				<source>Infobox</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_infobox_title" xml:space="preserve">
+				<source>Infobox</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_infobox_description" xml:space="preserve">
+				<source>Infobox rendering</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_link_list" xml:space="preserve">
+				<source>Link list</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_link_list_title" xml:space="preserve">
+				<source>Link list</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_link_list_description" xml:space="preserve">
+				<source>List of links from a central data set</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_media" xml:space="preserve">
+				<source>Media</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_media_title" xml:space="preserve">
+				<source>Media</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_media_description" xml:space="preserve">
+				<source>Media for Images and Videos</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_menu_pills" xml:space="preserve">
+				<source>Menu - Pills of subpages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_pills_title" xml:space="preserve">
+				<source>Menu - Pills link of subpages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_pills_description" xml:space="preserve">
+				<source>Pills link menu from subpages</source>
+			</trans-unit>
+			<trans-unit id="tt_content.CType.usersaccassite_menu_pills_pages" xml:space="preserve">
+				<source>Menu - Pills of selected pages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_pills_pages_title" xml:space="preserve">
+				<source>Menu - Pills link of selected pages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_pills_pages_description" xml:space="preserve">
+				<source>Pills link menu from selected pages</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_menu_tabs" xml:space="preserve">
+				<source>Menu - Tabs of subpages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_tabs_title" xml:space="preserve">
+				<source>Menu - Tabs link of subpages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_tabs_description" xml:space="preserve">
+				<source>Tabs link menu from subpages</source>
+			</trans-unit>
+			<trans-unit id="tt_content.CType.usersaccassite_menu_tabs_pages" xml:space="preserve">
+				<source>Menu - Tabs of selected pages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_tabs_pages_title" xml:space="preserve">
+				<source>Menu - Tabs link of selected pages</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_tabs_pages_description" xml:space="preserve">
+				<source>Tabs link menu from selected pages</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_menu_teaser_content_records" xml:space="preserve">
+				<source>Teaser content</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_teaser_content_records_title" xml:space="preserve">
+				<source>Teaser content with abstract and image</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_teaser_content_records_description" xml:space="preserve">
+				<source>Teaser menu with abstract and image from selected pages</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_menu_teaser_related_records" xml:space="preserve">
+				<source>Teaser related</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_teaser_related_records_title" xml:space="preserve">
+				<source>Teaser related with abstract, category and image</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_menu_teaser_related_records_description" xml:space="preserve">
+				<source>Teaser menu with abstract, category and image from selected pages and articles</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_messagebox" xml:space="preserve">
+				<source>Message Box</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_messagebox_title" xml:space="preserve">
+				<source>Message Box</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_messagebox_description" xml:space="preserve">
+				<source>Message Box rendering</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_quote_box" xml:space="preserve">
+				<source>Quote Box</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_quote_box_title" xml:space="preserve">
+				<source>Quote Box</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_quote_box_description" xml:space="preserve">
+				<source>Quote Box rendering</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_sidebar_text_box" xml:space="preserve">
+				<source>Sidebar text box</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_sidebar_text_box_title" xml:space="preserve">
+				<source>Sidebar text box</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_sidebar_text_box_description" xml:space="preserve">
+				<source>Sidebar text element with link</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_sidebar_vcard" xml:space="preserve">
+				<source>Sidebar v-card</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_sidebar_vcard_title" xml:space="preserve">
+				<source>Sidebar v-card</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_sidebar_vcard_description" xml:space="preserve">
+				<source>Sidebar v-card</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_partner_list" xml:space="preserve">
+				<source>Partner list</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_partner_list_title" xml:space="preserve">
+				<source>Partner list</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_partner_list_description" xml:space="preserve">
+				<source>Partner list rendering</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_teaser_banner" xml:space="preserve">
+				<source>Teaser banner</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_teaser_banner_title" xml:space="preserve">
+				<source>Teaser banner</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_teaser_banner_description" xml:space="preserve">
+				<source>Teaser banner from campaign</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.CType.usersaccassite_vcard" xml:space="preserve">
+				<source>V-card</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_vcard_title" xml:space="preserve">
+				<source>V-card</source>
+			</trans-unit>
+			<trans-unit id="wizards.newContentElement.usersaccassite_vcard_description" xml:space="preserve">
+				<source>V-card list rendering</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

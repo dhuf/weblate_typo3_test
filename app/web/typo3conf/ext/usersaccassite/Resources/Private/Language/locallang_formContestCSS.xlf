@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T17:07:54Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="contestCSS.element.fieldset-1.properties.label">
+				<source>Introduction</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.fieldset-2.properties.label">
+				<source>Question</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.fieldset-3.properties.label">
+				<source>Personal data</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.fieldset-4.properties.label">
+				<source>Address</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.fieldset-5.properties.label">
+				<source>More information</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.fieldset-6.properties.label">
+				<source>Validation</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.acknowledgement.properties.label">
+				<source>I agree with the conditions of participation</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.introductionText.properties.text">
+				<source>The CSS and the CAS are drawing a lot of magnificent prizes!</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.question.properties.label">
+				<source>How many free routes are available on the SAC route portal?</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.question.properties.options.300">
+				<source>300 free routes</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.question.properties.options.900">
+				<source>900 free routes</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.question.properties.options.1200">
+				<source>1200 free routes</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.sac-radio.properties.label">
+				<source>Are you a SAC member</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.sac-radio.properties.options.no">
+				<source>no</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.sac-radio.properties.options.yes">
+				<source>yes</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.css-radio.properties.label">
+				<source>Are you insured by the CSS</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.css-radio.properties.options.no">
+				<source>no</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.css-radio.properties.options.yes">
+				<source>yes</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.page-1.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.page-1.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.element.summarypage.properties.label">
+				<source>The information you are submitting (Summary)</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.summarypage.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.element.summarypage.renderingOptions.nextButtonLabel">
+				<source>Submit</source>
+			</trans-unit>
+
+			<trans-unit id="element.contestCSS.renderingOptions.submitButtonLabel">
+				<source>Submit</source>
+			</trans-unit>
+
+			<trans-unit id="contestCSS.email.messageTitle">
+				<source>CSS and SAC contest</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.email.hello">
+				<source>Hi %s,</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.email.messageTop">
+				<source>Thanks for your participation to our contest.</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.email.messageBottom">
+				<source>We will keep you posted, good luck.</source>
+			</trans-unit>
+			<trans-unit id="contestCSS.email.salutation">
+				<source>Your SAC</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

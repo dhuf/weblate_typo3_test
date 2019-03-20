@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2019-01-10T17:07:54Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="youthCoLeaderCourse.element.fieldset-1.properties.label">
+				<source>Personal data</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.fieldset-2.properties.label">
+				<source>Address</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.fieldset-3.properties.label">
+				<source>Course information</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.parentphone.properties.label">
+				<source>Parents phone number</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.recommandation-radio.properties.label">
+				<source>YO Chief recommands me for this course</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.recommandation-radio.properties.options.no">
+				<source>no</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.recommandation-radio.properties.options.yes">
+				<source>yes</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.maindiscipline-select.properties.label">
+				<source>Main discipline</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.maindiscipline-select.properties.prependOptionLabel">
+				<source>Please make a selection</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.maindiscipline-select.properties.options.1">
+				<source>Hike</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.maindiscipline-select.properties.options.2">
+				<source>Climb</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.maindiscipline-select.properties.options.3">
+				<source>Ski tour</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.secondarydiscipline-select.properties.label">
+				<source>Secondary discipline</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.secondarydiscipline-select.properties.prependOptionLabel">
+				<source>Please make a selection</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.secondarydiscipline-select.properties.options.1">
+				<source>Hike</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.secondarydiscipline-select.properties.options.2">
+				<source>Climb</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.secondarydiscipline-select.properties.options.3">
+				<source>Ski tour</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.page-1.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.page-1.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.element.summarypage.properties.label">
+				<source>The information you are submitting (Summary)</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.summarypage.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.element.summarypage.renderingOptions.nextButtonLabel">
+				<source>Submit</source>
+			</trans-unit>
+
+			<trans-unit id="element.youthCoLeaderCourse.renderingOptions.submitButtonLabel">
+				<source>Submit</source>
+			</trans-unit>
+
+			<trans-unit id="youthCoLeaderCourse.email.messageTitle">
+				<source>Course subscription</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.email.hello">
+				<source>Hi %s,</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.email.messageTop">
+				<source>Thanks for your subscription.</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.email.messageBottom">
+				<source>We will keep you posted.</source>
+			</trans-unit>
+			<trans-unit id="youthCoLeaderCourse.email.salutation">
+				<source>Your SAC course team</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

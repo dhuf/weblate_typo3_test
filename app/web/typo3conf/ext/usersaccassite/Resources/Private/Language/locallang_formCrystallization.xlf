@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T16:28:44Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="validator.crystallizationComment.empty">
+				<source>Please provide a comment if you choose to register for another event than the given options.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

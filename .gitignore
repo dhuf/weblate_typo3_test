@@ -1,0 +1,23 @@
+# ide
+.project
+.buildpath
+.settings
+.nbproject
+.idea
+!/.idea/inspectionProfiles/Project_Default.xml
+
+# php-cs-fixer
+.php_cs.cache
+
+# git
+/.auth.json
+
+# docker
+.unison.*
+/build_secrets
+/external_environment.env
+/docker-compose.override.yml
+
+# for now, fixtures will be pulled from live
+/fixtures
+/.docker-sync

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T17:07:01Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="eventRegistrationPk.element.fieldset-1.properties.label">
+				<source>Your data</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.function.properties.label">
+				<source>Your function</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.otherInfos.properties.label">
+				<source>Section, CC, commission or regional center</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.page-1.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+
+			<trans-unit id="eventRegistrationPk.element.fieldset-2.properties.label">
+				<source>Registration</source>
+			</trans-unit>
+
+			<trans-unit id="eventRegistrationPk.element.documentAmount.properties.label">
+				<source>How many documents do you want</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.documentAmount.properties.prependOptionLabel">
+				<source>Please make a selection</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.documentAmount.properties.options.0">
+				<source>none, I will use the digital version</source>
+			</trans-unit>
+
+			<trans-unit id="eventRegistrationPk.element.message.properties.label">
+				<source>Message</source>
+			</trans-unit>
+
+			<trans-unit id="eventRegistrationPk.element.takePart.properties.label">
+				<source>I'll be taking part at the event</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.takePart.properties.options.yes">
+				<source>Yes I will</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.takePart.properties.options.no">
+				<source>No I won't</source>
+			</trans-unit>
+
+			<trans-unit id="eventRegistrationPk.element.summarypage.properties.label">
+				<source>Your registration informations</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.summarypage.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.element.eventRegistrationPk.renderingOptions.submitButtonLabel">
+				<source>Submit your registration</source>
+			</trans-unit>
+
+			<trans-unit id="eventRegistrationPk.email.messageTitle">
+				<source>PK registration</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.email.messageTop">
+				<source>Thank you for your submission.</source>
+			</trans-unit>
+			<trans-unit id="eventRegistrationPk.email.messageBottom">
+				<source>Your SAC</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

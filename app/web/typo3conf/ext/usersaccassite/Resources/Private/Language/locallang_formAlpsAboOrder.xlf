@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T16:28:44Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="alpsAboOrder.element.page-1.properties.label">
+				<source>Subscription (1/2)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fieldset-1.properties.label">
+				<source>Order</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.alpsDescription.properties.text">
+				<source>You receive the magazine DIE ALPEN 12 times a year in the chosen language. The offer includes online access to all chargeable and exclusive articles such as tour tips and test reports in ALL languages and editions since 1864.</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.language.properties.label">
+				<source>The desired language</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.language.properties.prependOptionLabel">
+				<source>Choose a language</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.language.properties.options.de">
+				<source>German</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.language.properties.options.fr">
+				<source>French</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.language.properties.options.it">
+				<source>Italian</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fromIssue.properties.label">
+				<source>From issue</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fromIssue.properties.placeholder">
+				<source>ex. 01/2018</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fromIssue.properties.elementDescription">
+				<source>The subscription runs from the next possible issue. If the magazine is to be delivered at a later date, please let us know from which issue we may start the delivery.</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.subscriptionDuration.properties.label">
+				<source>Duration and renewal of the subscription</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.subscriptionDuration.properties.options.1">
+				<source>open-ended</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.subscriptionDuration.properties.options.2">
+				<source>1 year (12 issues)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.subscriptionDuration.properties.options.3">
+				<source>2 years (24 issues)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.subscriptionDuration.properties.options.4">
+				<source>3 years (36 issues)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.subscriptionDuration.properties.elementDescription">
+				<source>You will receive an annual invoice in advance. Subscription can be cancelled at any time at the end of the current period (12 months)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.agreement.properties.label">
+				<source>Yes, I would like to subscribe to the magazine &quot;Die ALPEN&quot; for a fee</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.page-1.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.page-2.properties.label">
+				<source>Your informations (2/2)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fieldset-2.properties.label">
+				<source>Your data</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fieldset-3.properties.label">
+				<source>Billing address</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.fieldset-4.properties.label">
+				<source>Validation</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.newsletter.properties.label">
+				<source>I would like to subscribe to the SAC newsletter. We will send you an invitation to subscribe to our newsletter.</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.page-2.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.page-2.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.summarypage.properties.label">
+				<source>The data you are submitting for your order (Summary)</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.summarypage.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.summarypage.renderingOptions.nextButtonLabel">
+				<source>Submit the order </source>
+			</trans-unit>
+			<trans-unit id="alpsAboOrder.element.alpsAboOrder.renderingOptions.submitButtonLabel">
+				<source>Submit the order</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

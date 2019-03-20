@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-08-27T17:07:54Z" product-name="usersaccassite">
+		<header/>
+		<body>
+			<trans-unit id="alpsAboCancel.element.page-1.properties.label">
+				<source>Cancellation</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.fieldset-1.properties.label">
+				<source>Your data</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.page-1.renderingOptions.nextButtonLabel">
+				<source>Next</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.contactNo.properties.label">
+				<source>Subscription number</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.contactNo.properties.elementDescription">
+				<source>Subscription number on the wrapping of your magazine or invoice</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.fieldset-2.properties.label">
+				<source>Validation of the cancellation</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.agreement.properties.label">
+				<source>Yes, I would like to subscribe to the magazine &quot;Die ALPEN&quot; for a fee</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.summarypage.properties.label">
+				<source>Informations of cancellation</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.summarypage.renderingOptions.previousButtonLabel">
+				<source>Previous</source>
+			</trans-unit>
+			<trans-unit id="alpsAboCancel.element.alpsAboCancel.renderingOptions.submitButtonLabel">
+				<source>Subscription cancellation</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
