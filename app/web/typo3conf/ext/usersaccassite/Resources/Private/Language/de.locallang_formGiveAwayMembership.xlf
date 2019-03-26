@@ -6,9 +6,9 @@
 			<trans-unit id="element.Page.renderingOptions.nextButtonLabel">
 				<source>Next Step</source> <target>Nächster Schritt</target></trans-unit>
 			<trans-unit id="element.Page.renderingOptions.previousButtonLabel">
-				<source>Previous Step</source> <target/></trans-unit>
+				<source>Previous Step</source> <target>Vorheriger Schritt</target></trans-unit>
 			<trans-unit id="element.summarypage-1.renderingOptions.previousButtonLabel">
-				<source>Previous Step</source> <target/></trans-unit>
+				<source>Previous Step</source> <target>Vorheriger Schritt</target></trans-unit>
 			<trans-unit id="element.summarypage-1.properties.label">
 				<source>Summary</source> <target/></trans-unit>
 			<trans-unit id="element.giveAwayMembership.renderingOptions.submitButtonLabel">
