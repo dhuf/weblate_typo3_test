@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2018-08-27T17:07:54Z" product-name="usersaccassite">
+		<body>
+			<trans-unit id="centralFestivalSection.element.fieldset-1.properties.label">
+				<source>Persönliche Angaben</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.fieldset-2.properties.label">
+				<source>Freitag, 14. Juni 2019</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.capannamontebar.properties.label">
+				<source>Hüttenabend Capanna Monte Bar inkl. Übernachtung</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.fieldset-3.properties.label">
+				<source>Samstag Morgen, 15. Juni 2019</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.takepart.properties.label">
+				<source>Teilnahme AV</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.printedversion.properties.label">
+				<source>Möchtest du das AV-Dossier gedruckt erhalten?</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.fieldset-4.properties.label">
+				<source>Samstag Nachmittag, 15. Juni 2019</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitlugano.properties.label">
+				<source>Teilnahme Begleitprogramm (Stadtbesichtigung Lugano)</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsplendideroyal.properties.label">
+				<source>Teilnahme Galadinner (Splendide Royal)</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.room.properties.label">
+				<source>Zimmerreservation</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.fieldset-5.properties.label">
+				<source>Sonntag, 16. Juni 2019</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsansalvatore.properties.label">
+				<source>Teilnahme Programm San Salvatore</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitgandria.properties.label">
+				<source>Teilnahme Programm Gandria</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.label">
+				<source>Teilnahme Programm Capanna Monte Bar</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.fieldset-6.properties.label">
+				<source>Nachricht</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.message.properties.label">
+				<source>Bemerkungen</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.email.messageTitle">
+				<source>Anmeldeformular für AV und Zentralfest</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.email.messageTop">
+				<source>Wir freuen uns auf deine Teilname</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.email.messageBottom">
+				<source>Liebe Grüsse,</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.email.salutation" approved="yes">
+				<source>Dein SAC</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
