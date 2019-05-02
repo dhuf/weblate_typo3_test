@@ -11,14 +11,32 @@
 			<trans-unit id="centralFestivalSection.element.capannamontebar.properties.label">
 				<source>Hüttenabend Capanna Monte Bar inkl. Übernachtung</source>
 			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.capannamontebar.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.capannamontebar.properties.options.no">
+				<source>Nein</source>
+			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.fieldset-3.properties.label">
 				<source>Samstag Morgen, 15. Juni 2019</source>
 			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.takepart.properties.label">
 				<source>Teilnahme AV</source>
 			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.takepart.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.takepart.properties.options.no">
+				<source>Nein</source>
+			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.printedversion.properties.label">
 				<source>Möchtest du das AV-Dossier gedruckt erhalten?</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.printedversion.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.printedversion.properties.options.no">
+				<source>Nein</source>
 			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.fieldset-4.properties.label">
 				<source>Samstag Nachmittag, 15. Juni 2019</source>
@@ -26,11 +44,32 @@
 			<trans-unit id="centralFestivalSection.element.visitlugano.properties.label">
 				<source>Teilnahme Begleitprogramm (Stadtbesichtigung Lugano)</source>
 			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitlugano.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitlugano.properties.options.no">
+				<source>Nein</source>
+			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.visitsplendideroyal.properties.label">
 				<source>Teilnahme Galadinner (Splendide Royal)</source>
 			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsplendideroyal.properties.options.yes-vegi">
+				<source>Ja, ich bin Vegetarier/in</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsplendideroyal.properties.options.yes">
+				<source>Ja, ich esse alles</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsplendideroyal.properties.options.no">
+				<source>Nein</source>
+			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.room.properties.label">
 				<source>Zimmerreservation</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.room.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.room.properties.options.no">
+				<source>Nein</source>
 			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.fieldset-5.properties.label">
 				<source>Sonntag, 16. Juni 2019</source>
@@ -38,14 +77,47 @@
 			<trans-unit id="centralFestivalSection.element.visitsansalvatore.properties.label">
 				<source>Teilnahme Programm San Salvatore</source>
 			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsansalvatore.properties.options.yes-cablecar">
+				<source>Ja, mit der Standseilbahn</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsansalvatore.properties.options.yes-viaferrata">
+				<source>Ja, mit dem Klettersteig</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitsansalvatore.properties.options.no">
+				<source>Nein</source>
+			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.visitgandria.properties.label">
 				<source>Teilnahme Programm Gandria</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitgandria.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitgandria.properties.options.no">
+				<source>Nein</source>
 			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.label">
 				<source>Teilnahme Programm Capanna Monte Bar</source>
 			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.options.yes-hike">
+				<source>Ja, ich Wandere</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.options.yes-bike-own">
+				<source>Ja, ich bringe mein eigenes MTB mit</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.options.yes-bike-rent">
+				<source>Ja, ich würde gerne ein MTB mieten</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.options.yes-bike-rent-electric">
+				<source>Ja, ich würde gerne ein E-MTB mieten</source>
+			</trans-unit>
+			<trans-unit id="centralFestivalSection.element.visitcapannamontebar.properties.options.no">
+				<source>Nein, ich komme nicht</source>
+			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.fieldset-6.properties.label">
 				<source>Nachricht</source>
+			</trans-unit>
+			<trans-unit id="element.centralFestivalSection.renderingOptions.submitButtonLabel" approved="yes">
+				<source>Abschicken</source>
 			</trans-unit>
 			<trans-unit id="centralFestivalSection.element.message.properties.label">
 				<source>Bemerkungen</source>
