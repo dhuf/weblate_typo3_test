@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2018-08-27T17:07:54Z" product-name="usersaccassite">
+		<body>
+			<trans-unit id="UBA.element.UBA.properties.label">
+				<source>Treffen der Umweltbeauftragten</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.fieldset-1.properties.label">
+				<source>Persönliche Angaben</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.function.properties.label">
+				<source>Funktion</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.fieldset-2.properties.label">
+				<source>Teilnahme und Essen</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.takepart.properties.label">
+				<source>Teilnahme</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.takepart.properties.options.yes">
+				<source>Ich nehme teil (Kostenbeteiligung CHF 70)</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.takepart.properties.options.no">
+				<source>Ich kann nicht teilnehmen</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.vegi.properties.label">
+				<source>Vegetarisches Essen</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.vegi.properties.options.yes">
+				<source>Ja</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.vegi.properties.options.no">
+				<source>Nein</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.fieldset-3.properties.label">
+				<source>Nachricht</source>
+			</trans-unit>
+			<trans-unit id="UBA.element.message.properties.label">
+				<source>Bemerkungen</source>
+			</trans-unit>
+			<trans-unit id="element.UBA.renderingOptions.submitButtonLabel">
+				<source>Senden</source>
+			</trans-unit>
+			<trans-unit id="UBA.email.messageTitle">
+				<source>Anmeldeformular für das Treffen der Umweltbeauftragten</source>
+			</trans-unit>
+			<trans-unit id="UBA.email.messageTop">
+				<source>Wir freuen uns auf deine Teilnahme</source>
+			</trans-unit>
+			<trans-unit id="UBA.email.messageBottom">
+				<source>Liebe Grüsse,</source>
+			</trans-unit>
+			<trans-unit id="UBA.email.salutation">
+				<source>Dein SAC</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
